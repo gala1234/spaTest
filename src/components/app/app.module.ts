@@ -8,6 +8,7 @@ import { SideBarComponent } from '../side-bar/side-bar.component';
 import { FormComponent } from '../form/form.component';
 import { InputFieldComponent } from '../input-field/input-field.component';
 import { InputComponent } from '../input/input.component';
+import { DropdownComponent } from '../dropdown/dropdown.component';
 import { FooterComponent } from '../footer/footer.component';
 import { MainComponent } from '../main/main.component';
 import { BottomBarComponent } from '../bottom-bar/bottom-bar.component';
@@ -24,6 +25,7 @@ import { ListModifierComponent } from '../list-modifier/list-modifier.component'
     FormComponent,
     InputFieldComponent,
     InputComponent,
+    DropdownComponent,
     FooterComponent,
     MainComponent,
     BottomBarComponent,
