@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+// import menu from '../../assets/icons/menu.svg';
+// import logo from '../../assets/icons/logo.svg';
 
 @Component({
   selector: 'app-top-bar',
@@ -8,7 +10,8 @@ import { Component, OnInit } from '@angular/core';
 export class TopBarComponent implements OnInit {
 
   constructor() { }
-
+    // menu: menu;
+    // logo: logo;
   ngOnInit() {
   }
 

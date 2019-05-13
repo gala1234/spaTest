@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'spaTest';
-  message= 'Gala';
+  message = 'Gala';
 
   getTitle = () => this.title
 }

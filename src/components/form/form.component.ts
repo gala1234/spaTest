@@ -6,9 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./form.component.styl']
 })
 export class FormComponent implements OnInit {
-
   constructor() { }
-
+  formDescription = 'aqui añades usuarios';
+  
   ngOnInit() {
   }
 

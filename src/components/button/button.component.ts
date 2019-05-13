@@ -9,6 +9,7 @@ export class ButtonComponent implements OnInit {
 
   constructor() { }
 
+    action = 'add';
   ngOnInit() {
   }
 
